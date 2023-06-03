@@ -166,7 +166,7 @@ export default function BootstrapCarousel() {
                                         color: '#f4e8ce',
                                     },
                                 }}
-                                size='med'
+                                size='medium'
                             />
                             <Radio
                                 {...controlProps('c')}
@@ -176,7 +176,7 @@ export default function BootstrapCarousel() {
                                         color: '#f1f3f2',
                                     },
                                 }}
-                                size='med'
+                                size='medium'
                             />
                             <Radio
                                 {...controlProps('d')}
@@ -186,7 +186,7 @@ export default function BootstrapCarousel() {
                                         color: '#474644',
                                     },
                                 }}
-                                size='med'
+                                size='medium'
                             />
                         </div>
                         <div>
